@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+google-genai
+transformers
+torch
+pypdf
+sentencepiece
+accelerate
